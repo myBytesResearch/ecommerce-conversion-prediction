@@ -1,0 +1,20 @@
+{
+  "dataset": "DMC 2013 (prediction of orders) - GENERIC online shop, not fashion",
+  "n_sessions": 50000,
+  "population_order_rate": 0.4636,
+  "population_note": "curated competition population, NOT a real funnel conversion rate (real funnels are low single digits)",
+  "split": "by sessionNo, oldest 80% train / newest 20% test (group split, no row leakage)",
+  "auc_early_first_transaction": 0.8476,
+  "auc_full_last_transaction": 0.9612,
+  "auc_full_without_basket_block": 0.8599,
+  "foresight_vs_tautology_gap": 0.1136,
+  "basket_leakage_contribution_auc": 0.1012,
+  "lift_decile1_full": 2.14,
+  "basket_block": [
+    "bCount",
+    "bMinPrice",
+    "bMaxPrice",
+    "bSumPrice",
+    "bStep"
+  ]
+}

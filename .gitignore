@@ -1,0 +1,17 @@
+.env
+.env.local
+*.pem
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+venv/
+.venv/
+# Data - DMC 2013 is third-party competition data, NOT redistributable; fetch via kagglehub
+data/raw/*
+\!data/raw/.gitkeep
+*.txt
+\!requirements.txt
+*.parquet
+.DS_Store

@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ecommerce-conversion-prediction"
+version = "0.1.0"
+description = "Honest e-commerce session-conversion analysis on DMC 2013 - early-session foresight vs end-of-session basket tautology. Companion to the myBytes Research note."
+readme = "README.md"
+requires-python = ">=3.11,<3.13"
+authors = [{ name = "Guido Winger", email = "gwinger@mybytes.com" }]
+license = { text = "MIT" }
+keywords = ["ecommerce", "conversion", "session-prediction", "leakage", "honest-evaluation", "reproducibility", "mybytes-research"]
+
+[project.urls]
+"Homepage" = "https://mybytes.com/research/ecommerce-conversion-foresight"
+"Source" = "https://github.com/myBytesResearch/ecommerce-conversion-prediction"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
