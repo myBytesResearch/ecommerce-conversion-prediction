@@ -10,7 +10,7 @@
 **Companion repository to the myBytes Research note on honest e-commerce
 session-conversion prediction.**
 
-→ Methodology article (German): https://mybytes.com/research/ecommerce-conversion-foresight
+→ Methodology article (German): https://mybytes.com/research/conversion-vorhersage-ecommerce
 
 ---
 
