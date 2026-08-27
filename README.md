@@ -10,7 +10,12 @@
 **Companion repository to the myBytes Research note on honest e-commerce
 session-conversion prediction.**
 
-→ Methodology article (German): https://mybytes.com/research/conversion-vorhersage-ecommerce
+## Write-up
+
+The full research note on this project:
+[Warum fast perfekte Conversion-Modelle meist den Warenkorb nacherzählen](https://mybytes.com/research/conversion-vorhersage-ecommerce)
+(English version: [Why near-perfect conversion models mostly retell the basket](https://mybytes.com/en/research/ecommerce-conversion-foresight),
+Polish version: [Dlaczego niemal idealne modele konwersji najczęściej opowiadają koszyk](https://mybytes.com/pl/research/prognoza-konwersji-ecommerce))
 
 ---
 
